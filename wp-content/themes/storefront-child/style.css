@@ -1,0 +1,47 @@
+/*
+Theme Name: Storefront Child Theme
+Theme URI: https://example.com
+Description: A child theme for Storefront.
+Author: Pamela Pires dos Santos do O
+Author URI: https://example.com/
+Template: storefront
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body {
+    background-color:#FFEFD5;
+}
+
+body p {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.entry-header {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.site-header {
+    background-color: #FFDAB9;
+}
+
+.site-branding .site-title a {
+    color: #fa7f72;
+}
+
+.site-branding .site-description {
+    color: #ba000d;
+}
+
+h2 a {
+    font-weight: lighter;
+    color: #ba000d;
+    text-decoration: underline;
+}
+
+.main-navigation ul li a {
+    font-size: medium;
+    font-weight: bold;
+    color: #ba000d;
+}
+
